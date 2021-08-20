@@ -3,9 +3,6 @@ import os
 
 
 def add(a, b) -> int:
-"""
-   add function to add two numbers
-"""
     return math.floor(a + b)
 
 
